@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "宮崎大学バスケ部"
 weight: 3
 ---
 

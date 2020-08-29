@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: "片山(徹)研究室"
 weight: 1
 ---
 
