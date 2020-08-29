@@ -3,4 +3,4 @@ title: "Kensuke Suga"
 headless: true
 ---
 
-おはよう
+SE目指してます。
